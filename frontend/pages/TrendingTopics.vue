@@ -1,8 +1,5 @@
 <template>
-<<<<<<< HEAD
-  
-</template>
-=======
+
 <<<<<<< HEAD
   <div class="twitter-trends-viewer">
     <h1>📈 Twitter Trending Topics <span class="country">🇮🇳 India</span></h1>
