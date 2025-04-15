@@ -7,4 +7,5 @@
 
 <script setup>
 import Navbar from '~/components/Navbar.vue'
+useHead({ title: 'X-Tweet' })
 </script>
