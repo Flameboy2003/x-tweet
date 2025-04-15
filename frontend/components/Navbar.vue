@@ -3,7 +3,7 @@
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
       <NuxtLink to="/" class="flex items-center space-x-3 rtl:space-x-reverse">
         <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/twitterx.png" alt="x-tweet logo" />
-        <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Tweet</span>
+        <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white ">Tweet</span>
       </NuxtLink>
 
       <!-- Mobile menu toggle button -->
@@ -24,31 +24,31 @@
 
           <li>
             <NuxtLink to="/"
-              class="block py-2 px-3 text-gray-900 hover:bg-gray-100 md:hover:bg-transparent md:p-0 dark:text-white">
+              class="block py-2 px-3 text-gray-900 hover:bg-gray-100  hover:underline  md:hover:bg-transparent md:p-0 dark:text-white duration-300 hover:scale-110">
               Home
             </NuxtLink>
           </li>
           <li>
             <NuxtLink to="/TrendingTopics"
-              class="block py-2 px-3 text-gray-900 hover:bg-gray-100 md:hover:bg-transparent md:p-0 dark:text-white">
+              class="block py-2 px-3 text-gray-900 hover:bg-gray-100 hover:underline md:hover:bg-transparent md:p-0 dark:text-white duration-300 hover:scale-110">
               Trends
             </NuxtLink>
           </li>
           <li>
             <NuxtLink to="/Sentiment"
-              class="block py-2 px-3 text-gray-900 hover:bg-gray-100 md:hover:bg-transparent md:p-0 dark:text-white">
+              class="block py-2 px-3 text-gray-900 hover:bg-gray-100 hover:underline md:hover:bg-transparent md:p-0 dark:text-white duration-300 hover:scale-110">
               Sentiment
             </NuxtLink>
           </li>
           <li>
             <NuxtLink to="/Compare"
-              class="block py-2 px-3 text-gray-900 hover:bg-gray-100 md:hover:bg-transparent md:p-0 dark:text-white">
+              class="block py-2 px-3 text-gray-900 hover:bg-gray-100 hover:underline md:hover:bg-transparent md:p-0 dark:text-white duration-300 hover:scale-110">
               Compare
             </NuxtLink>
           </li>
           <li>
             <NuxtLink to="/LiveFeed"
-              class="block py-2 px-3 text-gray-900 hover:bg-gray-100 md:hover:bg-transparent md:p-0 dark:text-white">
+              class="block py-2 px-3 text-gray-900 hover:bg-gray-100 hover:underline md:hover:bg-transparent md:p-0 dark:text-white duration-300 hover:scale-110">
               Live Feed
             </NuxtLink>
           </li>
