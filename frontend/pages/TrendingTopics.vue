@@ -1,6 +1,11 @@
 
 
 <template>
+<<<<<<< HEAD
+=======
+
+<<<<<<< HEAD
+>>>>>>> origin/sujithbranch
   <div class="twitter-trends-viewer">
     <h1>📈 Twitter Trending Topics <span class="country">🇮🇳 India</span></h1>
 
@@ -300,3 +305,11 @@ h1 {
   }
 }
 </style>
+<<<<<<< HEAD
+=======
+=======
+  
+</template>
+>>>>>>> 82aebb4da2869ae9b2e14e7a014d53ea59630b75
+>>>>>>> origin/cyberkuttybranch
+>>>>>>> origin/sujithbranch
